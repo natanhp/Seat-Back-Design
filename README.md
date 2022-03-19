@@ -1,5 +1,5 @@
 # Seat Back Design
-![](SS.png)
+<div style="text-align:center"><img src="SS.png" /></div>.
 
 [FreeCAD](https://github.com/FreeCAD/FreeCAD) design to replace my broken seat back. 
 
